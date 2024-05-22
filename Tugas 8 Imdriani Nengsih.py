@@ -51,3 +51,5 @@ while True:
     elif n == 4:
         print("Terimakasih dan sampai jumpa lagi")
         break
+    else :
+        print("Menu tidak tersedia")
